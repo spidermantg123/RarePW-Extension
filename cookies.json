@@ -53,24 +53,12 @@
                 "hostOnly" : true
             }]
     },
-    "streamfiles.eu.org" : {
+    "nt.streamfiles.eu.org" : {
         "enabled" : true,
         "cookies" : [
                 {
-                "domain" : "streamfiles.eu.org",
-                "hostOnly" : true,
-                "httpOnly" : false,
-                "name" : "PHPSESSID",
-                "path" : "/",
-                "sameSite" : null,
-                "secure" : true,
-                "session" : true,
-                "storeId" : null,
-                "value" : "0el0r1dboh5724uu7jrbs1q6u3"
-            },
-                {
-                "domain" : "streamfiles.eu.org",
-                "expirationDate" : 1770203368.479407,
+                "domain" : "nt.streamfiles.eu.org",
+                "expirationDate" : 1770204836.502033,
                 "hostOnly" : true,
                 "httpOnly" : true,
                 "name" : "__Host-access_token",
@@ -79,11 +67,11 @@
                 "secure" : true,
                 "session" : false,
                 "storeId" : null,
-                "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbmMiOiJaNkQxQkpYTnBjd3laSURuQk5LYkJtUGxDVEdzcS1LZjZXQmJHM05KbERyT2hhdkpnYk1ZTkFXd0MtaTlCN05GTlI0b2x3NEp4QUdlNUVEbngyNlUtYVpoeTFiSDNnWnAzR1ZvOGFHS2pvOW5LWmQxYVVhNlB6bVp5SS1vLVVoMEE1V1dJYmxWaWtMMDBNQS11cGxlYWJNZDVFQ2pZR0w2OHRYZzB6eU52UkUySlVaY25HOTFJMFdPQVhyS1FhcGhfWGVnbk9TQVlFY1BpMnJQVERhcEh4WE5RUnV4cEZJbzFsVG1nZElWcEc0RFFLaEFVVVRzVTg0OFFrZEFuRC16ckw1TERCMXhpT2RrYzVURjRGMEdBSUEiLCJleHAiOjE3NzAyMDMzNjgsImlhdCI6MTc3MDExNjk2OCwianRpIjoiMmQ5NWVhZDQ2Y2IzODFjMGEyNzU0ZDk2Iiwic3ViIjoiOTRiMWEyNWU4NjIwZjE5YTg2ZTAxYWM3ZTZkMGFmYWIiLCJ1YSI6IjQ2NTBkNjU0MTlkZDE0OTg3YjA5MDY0NGU0OTY4ZjRhM2FmNzRkYTEwOGUyMjkyNDQ1YWU4YzdlMGE5M2I3YjgifQ.h6xhrHEq8zJV2AvzN-glcOyHuyWnvPmFN3NVFLGG5z4"
+                "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbmMiOiJnZEUtTi00Z1BmdTNrZFd5RjJLb3FVNDBDV284N3FvM0tHU1JBYUlVMFA2dHVWZVpyMTB3c25jeEpQLURPblFhekViRF9jRE84U0J5V1NmZEwwTkllclpMRnNpNUt5a3d3ejVoSVVlbnVUdzJTVHpfNnFnX0p5T1NpR3Y4Mlh0RlNGVVpzbFR3ZlhRNVhGeWx0NWxZZzVtSDlrMm1LRkhTcnc2elpzREJlWERqclJ4d2VITnltZ1oyeWVhczNoNFNjOTRndTFEU25CQnNKenNUV3BsUFlHNHpXVHVKbHBXNmlibXdkN1ZkdjFpaWNaT2tQRmZ4SHhDNjh0eHRsYjU2MFU0SUVLeEVUS05lb3drWnFPUGY4WlkiLCJleHAiOjE3NzAyMDQ4MzYsImlhdCI6MTc3MDExODQzNiwianRpIjoiMDBhYWRmYjRiODAzNjQ3ZmJiODhiNjE3Iiwic3ViIjoiMGMxNWU5N2Y0OWZjNDc4OTRkNTA3ZWU5MGI0NmJjMGYiLCJ1YSI6IjQ2NTBkNjU0MTlkZDE0OTg3YjA5MDY0NGU0OTY4ZjRhM2FmNzRkYTEwOGUyMjkyNDQ1YWU4YzdlMGE5M2I3YjgifQ.sDBsbas08UzrWiwlMYoSVj6YpjrttCaipDxLqHmBVQc"
             },
                 {
-                "domain" : "streamfiles.eu.org",
-                "expirationDate" : 1804676968.936359,
+                "domain" : "nt.streamfiles.eu.org",
+                "expirationDate" : 1804678436.439282,
                 "hostOnly" : true,
                 "httpOnly" : true,
                 "name" : "__Host-client_id",
@@ -92,12 +80,12 @@
                 "secure" : true,
                 "session" : false,
                 "storeId" : null,
-                "value" : "94b1a25e8620f19a86e01ac7e6d0afab.xhG1huxIvB2f73Sr_aUl_wZ1ImZ00mmLBsUQ66dBtX8"
+                "value" : "0c15e97f49fc47894d507ee90b46bc0f.IzsBNyXs4whyoDB4KkW4dfJoJ6TnarwVBJ2OA2dfHvg"
             },
                 {
-                "domain" : "streamfiles.eu.org",
+                "domain" : ".streamfiles.eu.org",
                 "expirationDate" : 1770468023,
-                "hostOnly" : true,
+                "hostOnly" : false,
                 "httpOnly" : false,
                 "name" : "auth_token",
                 "path" : "/",
@@ -106,6 +94,31 @@
                 "session" : false,
                 "storeId" : null,
                 "value" : "9AWuzi2k8iUEikuhbrAtP9xts1btyHilTA%2BKM7m4PUTuU%2B9n9p82kNL%2BFrydCfONMmZ0%2Fh8aTUJ9a2lOI9O4R2q0iss66DUb6P6vZXfwk15AWdZxbVYIW2JuhNxk%2B7zCn9ingKWVZJYUn8l3I6tw%2By28Wct7SCso0tSSHIyA1gFYDXaoN%2BFU%2B3LWminenAose%2BVBMoauJFPEmlXwPWWo5An%2BifC%2FFYpcQe%2BQNDrUlIgUu%2BY%2Bcu5fJSXTlfaRqfuSOxxW0nsj5xHVLFKZiDhqgfS%2Ba93oBtXX7HRuhIhJ0Ok69dpkiK5cugQxB6wxSKf1OJS4MmvylU2BHSocMoK7KPDPZjk29XFXgFYeGifwuVjD3Y5lka72cgQNP%2FoLCBZy6Ga4DZBHK%2BnjnBl9%2Bcv2i8yNMyRbPu7xYV75HCnSDiOsmXj%2BDmqvTp3Rb9Ex4bMp8IxldVCDpP2Wm7hdgANFxa3kJmM7sTY8YHJ7Ot6NJxOYNbEVFPEUujQgD1WLuVFvrZx4O2TMYiNJI4dMjLSb1Lhwg72ts7VwQ6DYgJdmxDgcbE6BiZCK1gt%2Bix3KGS8CmNX1GfrG4ZK2TzzYcsYAR1ejcIXVKBJtUJ061ls39pv7hG166LDvp7GKjQjYs3ntgKr7Qi%2Fd7W%2B60cnJOivDFgYUUtI8ILLiEMZXuqEjCLaUxF%2F1S055R05ZoFoTzHzqIIVsq6fXftyqvSn8EhTT2HeJZOKHSr%2B6A622prtEaE0%3D"
+            },
+                {
+                "domain" : "nt.streamfiles.eu.org",
+                "expirationDate" : 1804678561.486301,
+                "hostOnly" : true,
+                "httpOnly" : false,
+                "name" : "ext_name",
+                "path" : "/",
+                "sameSite" : null,
+                "secure" : false,
+                "session" : false,
+                "storeId" : null,
+                "value" : "ojplmecpdpgccookcobabopnaifgidhf"
+            },
+                {
+                "domain" : ".streamfiles.eu.org",
+                "hostOnly" : false,
+                "httpOnly" : false,
+                "name" : "PHPSESSID",
+                "path" : "/",
+                "sameSite" : "lax",
+                "secure" : true,
+                "session" : true,
+                "storeId" : null,
+                "value" : "0el0r1dboh5724uu7jrbs1q6u3"
             }]
     }
-}
+                }
