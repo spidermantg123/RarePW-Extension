@@ -1,0 +1,60 @@
+{
+    "rarestudy.site": [
+        {
+            "name": "user_id",
+            "value": "9c2f15e2-1a88-4a70-ada6-5bb67fa8375e",
+            "domain": "rarestudy.site",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        },
+        {
+            "name": "browser_id",
+            "value": "c7eab680-f9e3-433e-87a5-3131bf9dab74",
+            "domain": "rarestudy.site",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        },
+        {
+            "name": "device_id",
+            "value": "d95990d6-687e-4364-a01f-fefd40a7a451",
+            "domain": "rarestudy.site",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        },
+        {
+            "name": "rs_session",
+            "value": "vMvTEPE4GzqFS4coSuooYU0Jv5Vg13f3HHyWA6sYhoDmbcNR2fTlEuK1Jf3aFIko95Q3jWRIV13rV0ALRwXTtOqdk_Scy_8Z2rsU7xZrDD_LrUMYz-9tFDN6RbvmUQGCoGK5aE5Hcxr6m6Z3RW0jE3f3JfzNUNz3ZXH8Et1cQJnG2XU-CmlJCLa9NP-qgz-5tKKlN2dwq4z8aRX666YPDXBnD8lWtaof-1jextlqJk8-DNPToSkwg0o8UVSuZ-g0UK1-qes0M5VJOzXujpbcnCHeeKFj5S0EvTbstPibgj8r6NpoG336N8aBUL3PyF4nAMiNzIUsRqyW8UmAQkgm4ZGEt3UM1B6yD8VYZ3oQLA7y4N812ygYTQIl42seR33bNApsPmCFbJUThCN6BrYQS_X0-kb6ac0koAekKGJJhMiNR2H_90Ytfk9oOsr-fgJSeXgELlF0ChlGeocrax9NtgMNlp7VQgyW1S5F99aCanErNy5qZoJo0HX0SVZu40kmWQkZlhIM0042dO0X8ZCZpb-tDxo6D3DE-_UzDNfRN3pfSwr1foa2knNLo3VkXW1tUmjeTnfai5xaDndUfSEcqg",
+            "domain": "rarestudy.site",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        },
+        {
+            "name": "session_expiry",
+            "value": "1790180161247",
+            "domain": "rarestudy.site",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        }
+    ],
+    "studyrays.cc": [
+        {
+            "name": "auth_token",
+            "value": "YOUR_STUDYRAYS_COOKIE_VALUE_HERE",
+            "domain": "studyrays.cc",
+            "path": "/",
+            "secure": false,
+            "httpOnly": false,
+            "sameSite": "no_restriction"
+        }
+    ]
+}
