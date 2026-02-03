@@ -1,61 +1,111 @@
 {
-    "rarestudy.site": {
-        "enabled": true,
-        "cookies": [
-            {
-                "name": "user_id",
-                "value": "9c2f15e2-1a88-4a70-ada6-5bb67fa8375e",
-                "path": "/",
-                "secure": true,
-                "httpOnly": true,
-                "sameSite": "no_restriction",
-                "expirationDate": 1770180161.512547,
-                "hostOnly": true
+    "rarestudy.site" : {
+        "enabled" : true,
+        "cookies" : [
+                {
+                "name" : "user_id",
+                "value" : "9c2f15e2-1a88-4a70-ada6-5bb67fa8375e",
+                "path" : "/",
+                "secure" : true,
+                "httpOnly" : true,
+                "sameSite" : "no_restriction",
+                "expirationDate" : 1770180161.512547,
+                "hostOnly" : true
             },
-            {
-                "name": "browser_id",
-                "value": "c7eab680-f9e3-433e-87a5-3131bf9dab74",
-                "path": "/",
-                "secure": true,
-                "httpOnly": true,
-                "sameSite": "no_restriction",
-                "expirationDate": 1770180161.513006,
-                "hostOnly": true
+                {
+                "name" : "browser_id",
+                "value" : "c7eab680-f9e3-433e-87a5-3131bf9dab74",
+                "path" : "/",
+                "secure" : true,
+                "httpOnly" : true,
+                "sameSite" : "no_restriction",
+                "expirationDate" : 1770180161.513006,
+                "hostOnly" : true
             },
-            {
-                "name": "device_id",
-                "value": "d95990d6-687e-4364-a01f-fefd40a7a451",
-                "path": "/",
-                "secure": true,
-                "httpOnly": true,
-                "sameSite": "no_restriction",
-                "expirationDate": 1770180161.512774,
-                "hostOnly": true
+                {
+                "name" : "device_id",
+                "value" : "d95990d6-687e-4364-a01f-fefd40a7a451",
+                "path" : "/",
+                "secure" : true,
+                "httpOnly" : true,
+                "sameSite" : "no_restriction",
+                "expirationDate" : 1770180161.512774,
+                "hostOnly" : true
             },
-            {
-                "name": "rs_session",
-                "value": "vMvTEPE4GzqFS4coSuooYU0Jv5Vg13f3HHyWA6sYhoDmbcNR2fTlEuK1Jf3aFIko95Q3jWRIV13rV0ALRwXTtOqdk_Scy_8Z2rsU7xZrDD_LrUMYz-9tFDN6RbvmUQGCoGK5aE5Hcxr6m6Z3RW0jE3f3JfzNUNz3ZXH8Et1cQJnG2XU-CmlJCLa9NP-qgz-5tKKlN2dwq4z8aRX666YPDXBnD8lWtaof-1jextlqJk8-DNPToSkwg0o8UVSuZ-g0UK1-qes0M5VJOzXujpbcnCHeeKFj5S0EvTbstPibgj8r6NpoG336N8aBUL3PyF4nAMiNzIUsRqyW8UmAQkgm4ZGEt3UM1B6yD8VYZ3oQLA7y4N812ygYTQIl42seR33bNApsPmCFbJUThCN6BrYQS_X0-kb6ac0koAekKGJJhMiNR2H_90Ytfk9oOsr-fgJSeXgELlF0ChlGeocrax9NtgMNlp7VQgyW1S5F99aCanErNy5qZoJo0HX0SVZu40kmWQkZlhIM0042dO0X8ZCZpb-tDxo6D3DE-_UzDNfRN3pfSwr1foa2knNLo3VkXW1tUmjeTnfai5xaDndUfSEcqg",
-                "path": "/",
-                "secure": true,
-                "httpOnly": true,
-                "sameSite": "no_restriction",
-                "expirationDate": 1770180161.513189,
-                "hostOnly": true
+                {
+                "name" : "rs_session",
+                "value" : "vMvTEPE4GzqFS4coSuooYU0Jv5Vg13f3HHyWA6sYhoDmbcNR2fTlEuK1Jf3aFIko95Q3jWRIV13rV0ALRwXTtOqdk_Scy_8Z2rsU7xZrDD_LrUMYz-9tFDN6RbvmUQGCoGK5aE5Hcxr6m6Z3RW0jE3f3JfzNUNz3ZXH8Et1cQJnG2XU-CmlJCLa9NP-qgz-5tKKlN2dwq4z8aRX666YPDXBnD8lWtaof-1jextlqJk8-DNPToSkwg0o8UVSuZ-g0UK1-qes0M5VJOzXujpbcnCHeeKFj5S0EvTbstPibgj8r6NpoG336N8aBUL3PyF4nAMiNzIUsRqyW8UmAQkgm4ZGEt3UM1B6yD8VYZ3oQLA7y4N812ygYTQIl42seR33bNApsPmCFbJUThCN6BrYQS_X0-kb6ac0koAekKGJJhMiNR2H_90Ytfk9oOsr-fgJSeXgELlF0ChlGeocrax9NtgMNlp7VQgyW1S5F99aCanErNy5qZoJo0HX0SVZu40kmWQkZlhIM0042dO0X8ZCZpb-tDxo6D3DE-_UzDNfRN3pfSwr1foa2knNLo3VkXW1tUmjeTnfai5xaDndUfSEcqg",
+                "path" : "/",
+                "secure" : true,
+                "httpOnly" : true,
+                "sameSite" : "no_restriction",
+                "expirationDate" : 1770180161.513189,
+                "hostOnly" : true
             },
-            {
-                "name": "session_expiry",
-                "value": "1770180161247",
-                "path": "/",
-                "secure": true,
-                "httpOnly": false,
-                "sameSite": "no_restriction",
-                "expirationDate": 1770180161.513364,
-                "hostOnly": true
-            }
-        ]
+                {
+                "name" : "session_expiry",
+                "value" : "1770180161247",
+                "path" : "/",
+                "secure" : true,
+                "httpOnly" : false,
+                "sameSite" : "no_restriction",
+                "expirationDate" : 1770180161.513364,
+                "hostOnly" : true
+            }]
     },
-    "studyrays.cc": {
-        "enabled": false,
-        "cookies": []
+    "streamfiles.eu.org" : {
+        "enabled" : true,
+        "cookies" : [
+                {
+                "domain" : "streamfiles.eu.org",
+                "hostOnly" : true,
+                "httpOnly" : false,
+                "name" : "PHPSESSID",
+                "path" : "/",
+                "sameSite" : null,
+                "secure" : true,
+                "session" : true,
+                "storeId" : null,
+                "value" : "0el0r1dboh5724uu7jrbs1q6u3"
+            },
+                {
+                "domain" : "streamfiles.eu.org",
+                "expirationDate" : 1770203368.479407,
+                "hostOnly" : true,
+                "httpOnly" : true,
+                "name" : "__Host-access_token",
+                "path" : "/",
+                "sameSite" : "lax",
+                "secure" : true,
+                "session" : false,
+                "storeId" : null,
+                "value" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbmMiOiJaNkQxQkpYTnBjd3laSURuQk5LYkJtUGxDVEdzcS1LZjZXQmJHM05KbERyT2hhdkpnYk1ZTkFXd0MtaTlCN05GTlI0b2x3NEp4QUdlNUVEbngyNlUtYVpoeTFiSDNnWnAzR1ZvOGFHS2pvOW5LWmQxYVVhNlB6bVp5SS1vLVVoMEE1V1dJYmxWaWtMMDBNQS11cGxlYWJNZDVFQ2pZR0w2OHRYZzB6eU52UkUySlVaY25HOTFJMFdPQVhyS1FhcGhfWGVnbk9TQVlFY1BpMnJQVERhcEh4WE5RUnV4cEZJbzFsVG1nZElWcEc0RFFLaEFVVVRzVTg0OFFrZEFuRC16ckw1TERCMXhpT2RrYzVURjRGMEdBSUEiLCJleHAiOjE3NzAyMDMzNjgsImlhdCI6MTc3MDExNjk2OCwianRpIjoiMmQ5NWVhZDQ2Y2IzODFjMGEyNzU0ZDk2Iiwic3ViIjoiOTRiMWEyNWU4NjIwZjE5YTg2ZTAxYWM3ZTZkMGFmYWIiLCJ1YSI6IjQ2NTBkNjU0MTlkZDE0OTg3YjA5MDY0NGU0OTY4ZjRhM2FmNzRkYTEwOGUyMjkyNDQ1YWU4YzdlMGE5M2I3YjgifQ.h6xhrHEq8zJV2AvzN-glcOyHuyWnvPmFN3NVFLGG5z4"
+            },
+                {
+                "domain" : "streamfiles.eu.org",
+                "expirationDate" : 1804676968.936359,
+                "hostOnly" : true,
+                "httpOnly" : true,
+                "name" : "__Host-client_id",
+                "path" : "/",
+                "sameSite" : "lax",
+                "secure" : true,
+                "session" : false,
+                "storeId" : null,
+                "value" : "94b1a25e8620f19a86e01ac7e6d0afab.xhG1huxIvB2f73Sr_aUl_wZ1ImZ00mmLBsUQ66dBtX8"
+            },
+                {
+                "domain" : "streamfiles.eu.org",
+                "expirationDate" : 1770468023,
+                "hostOnly" : true,
+                "httpOnly" : false,
+                "name" : "auth_token",
+                "path" : "/",
+                "sameSite" : "lax",
+                "secure" : false,
+                "session" : false,
+                "storeId" : null,
+                "value" : "9AWuzi2k8iUEikuhbrAtP9xts1btyHilTA%2BKM7m4PUTuU%2B9n9p82kNL%2BFrydCfONMmZ0%2Fh8aTUJ9a2lOI9O4R2q0iss66DUb6P6vZXfwk15AWdZxbVYIW2JuhNxk%2B7zCn9ingKWVZJYUn8l3I6tw%2By28Wct7SCso0tSSHIyA1gFYDXaoN%2BFU%2B3LWminenAose%2BVBMoauJFPEmlXwPWWo5An%2BifC%2FFYpcQe%2BQNDrUlIgUu%2BY%2Bcu5fJSXTlfaRqfuSOxxW0nsj5xHVLFKZiDhqgfS%2Ba93oBtXX7HRuhIhJ0Ok69dpkiK5cugQxB6wxSKf1OJS4MmvylU2BHSocMoK7KPDPZjk29XFXgFYeGifwuVjD3Y5lka72cgQNP%2FoLCBZy6Ga4DZBHK%2BnjnBl9%2Bcv2i8yNMyRbPu7xYV75HCnSDiOsmXj%2BDmqvTp3Rb9Ex4bMp8IxldVCDpP2Wm7hdgANFxa3kJmM7sTY8YHJ7Ot6NJxOYNbEVFPEUujQgD1WLuVFvrZx4O2TMYiNJI4dMjLSb1Lhwg72ts7VwQ6DYgJdmxDgcbE6BiZCK1gt%2Bix3KGS8CmNX1GfrG4ZK2TzzYcsYAR1ejcIXVKBJtUJ061ls39pv7hG166LDvp7GKjQjYs3ntgKr7Qi%2Fd7W%2B60cnJOivDFgYUUtI8ILLiEMZXuqEjCLaUxF%2F1S055R05ZoFoTzHzqIIVsq6fXftyqvSn8EhTT2HeJZOKHSr%2B6A622prtEaE0%3D"
+            }]
     }
 }
