@@ -7,7 +7,7 @@
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         },
         {
             "name": "browser_id",
@@ -16,7 +16,7 @@
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         },
         {
             "name": "device_id",
@@ -25,7 +25,7 @@
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         },
         {
             "name": "rs_session",
@@ -34,7 +34,7 @@
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         },
         {
             "name": "session_expiry",
@@ -43,18 +43,18 @@
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         }
     ],
     "studyrays.cc": [
         {
             "name": "auth_token",
-            "value": "YOUR_STUDYRAYS_COOKIE_VALUE_HERE",
+            "value": "YOUR_STUDYRAYS_COOKIE",
             "domain": "studyrays.cc",
             "path": "/",
             "secure": false,
             "httpOnly": false,
-            "sameSite": "no_restriction"
+            "sameSite": "lax"
         }
     ]
 }
