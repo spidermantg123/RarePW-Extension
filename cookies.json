@@ -38,7 +38,7 @@
         },
         {
             "name": "session_expiry",
-            "value": "1790180161247",
+            "value": "1770180161247",
             "domain": "rarestudy.site",
             "path": "/",
             "secure": false,
